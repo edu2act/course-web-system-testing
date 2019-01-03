@@ -6,7 +6,6 @@
 《Web 系统测试 》是方向课，教学任务是使学生掌握Web系统测试相关知识，通过本课程的学习，要求学生理解软件测试系统测试中探索式测试、敏捷测试和安全测试相关知识，并能运用这些知识完成实际测试任务。
 
 - [课程内容](#课程内容)
-- [环境配置](#环境配置)
 - [教学大纲](./materials/outline.pdf)   [<img src="./image/download.png" height="15" />下载](./materials/outline.docx)
 - [课程进度表](./materials/schedule.pdf)   [<img src="./image/download.png" height="15" />下载](./materials/schedule.doc)
 
@@ -14,7 +13,7 @@
 
 | 章节 | 名称 | 内容 | 课件 |
 |:---:|:---:|:---:|:---:|
-| 1.1 | 软件测试基础课程回顾 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch01/ch01-1.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch01-1.pptx) |
+| 1.1 | 软件测试基础课程回顾 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch01-1.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch01-1.pptx) |
 | 1.2 | 测试计划和测试报告的书写 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch01/ch01-2.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch01-2.pptx) |
 | 1.3 | 软件测试基础课程回顾 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch01/ch01-3.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch01-3.pptx) |
 | 1.3 | 探索式软件测试概述 || [<img src="./image/presentation.png" height="15" />查看](./materials/pdf/ch01/ch01-4.pdf) [<img src="./image/download.png" height="15" />下载](./materials/slides/ch01-4.pptx) |
